@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Devika-arun.
-- 👀 I’m interested in Machine Learning and Data science.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking for an internship to learn more in the ML/DL/DS domain.
-- ✨ 2023 Goals: Contribute more to Open Source projects
-- ^   I love coding
+- 🌟 Aspiring Data Enthusiast diving into the world of Data Structures & Algorithms.
+- 📚 Constantly learning, evolving, and embracing the art of problem-solving in tech.
+- 💡 Seeking Internship Opportunities in ML/DL & Data Science realms to fuel my passion for innovation.
+- 🚀 Ready to collaborate, code, and contribute to the exciting landscape of technology.
+- 🔥 Fluent in Python, C, SQL.
+- ✨ Exploring the world of Machine Learning, Deep Learning, and Data Science.
 
 
 <!---
